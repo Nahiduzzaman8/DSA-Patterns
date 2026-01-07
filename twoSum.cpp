@@ -33,3 +33,14 @@ int main() {
 //tc = O(n^2)
 
 
+
+
+
+
+
+
+
+
+// best way to do this this hashmap
+//after learning hashmap i will do it.
+
